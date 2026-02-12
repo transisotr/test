@@ -5,8 +5,8 @@
 conda install -c conda-forge google-genai
 
 
-# Replace the `GOOGLE_CLOUD_PROJECT_ID` and `GOOGLE_CLOUD_LOCATION` values
-# with appropriate values for your project.
+<!-- # Replace the `GOOGLE_CLOUD_PROJECT_ID` and `GOOGLE_CLOUD_LOCATION` values -->
+<!-- # with appropriate values for your project. -->
 export GOOGLE_CLOUD_PROJECT=train-max-20260104
 export GOOGLE_CLOUD_LOCATION=global
 export GOOGLE_GENAI_USE_VERTEXAI=True
@@ -26,3 +26,15 @@ git config user.email "robe_velocity@163.com"
 # 2. 设置局部用户名
 git config user.name "transisotr"
 
+
+git status
+
+# 如果想添加所有修改过的文件
+git add .
+
+# 或者只添加特定文件
+git add 文件名.py
+
+git commit -m "描述你这次改了什么，例如：修复了xx漏洞 或 更新了README"
+
+git push
