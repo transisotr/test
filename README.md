@@ -35,6 +35,9 @@ git add .
 # 或者只添加特定文件
 git add 文件名.py
 
-git commit -m "描述你这次改了什么，例如：修复了xx漏洞 或 更新了README"
+git commit -m "test"
 
 git push
+
+export http_proxy=http://127.0.0.1:10809
+export https_proxy=http://127.0.0.1:10809
