@@ -1,0 +1,124 @@
+{
+  "summary": "这段视频展示了一位男歌手在管弦乐队和合唱团的伴奏下，满怀激情地演唱一首关于人生、爱与豁达的中文歌曲。",
+  "segments": [
+    {
+      "timestamp": "00:00",
+      "content": "（纯乐器伴奏开场）",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "neutral"
+    },
+    {
+      "timestamp": "00:21",
+      "content": "纵此生也不过百岁，何必沾惹愁滋味。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "00:30",
+      "content": "莫叹去日不可追，来日犹可为。此生爱恨有几回，何必落得一声悲。叫那情字无悔也无愧。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "00:44",
+      "content": "风雨把花催，时光刹那间纷飞。朝来暮去，人生难再回。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "00:54",
+      "content": "悲欢斟几杯，纵我一场醉。黄粱一梦皆成灰。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "01:04",
+      "content": "纵此生也不过百岁，何必沾惹愁滋味。莫叹去日不可追，来日犹可为。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "01:13",
+      "content": "此生爱恨有几回，何必落得一声悲。叫那情字无悔也无愧。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "01:25",
+      "content": "纵此生也不过百岁，何必总事多负累。今朝有酒今朝醉，莫管是非与非。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "01:35",
+      "content": "此生聚散如风吹，何必离愁换憔悴。前路有人作陪，共赴山与水。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "01:46",
+      "content": "（间奏）",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "neutral"
+    },
+    {
+      "timestamp": "02:10",
+      "content": "风雨把花催，时光刹那间纷飞。朝来暮去，人生难再回。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "02:20",
+      "content": "悲欢斟几杯，纵我一场醉。黄粱一梦皆成灰。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "02:31",
+      "content": "纵此生也不过百岁，何必沾惹愁滋味。莫叹去日不可追，来日犹可为。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "02:41",
+      "content": "此生爱恨有几回，何必落得一声悲。叫那情字无悔也无愧。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "02:53",
+      "content": "纵此生也不过百岁，何必总事多负累。今朝有酒今朝醉，莫管是非与非。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "03:03",
+      "content": "此生聚散如风吹，何必离愁换憔悴。前路有人作陪，共赴山与水。",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "happy"
+    },
+    {
+      "timestamp": "03:14",
+      "content": "（收尾音乐）",
+      "language": "Chinese",
+      "language_code": "zh",
+      "emotion": "neutral"
+    }
+  ]
+}

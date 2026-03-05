@@ -11,6 +11,7 @@ def generate():
 #   client = genai.Client(
 #       vertexai=True,
 #       api_key=os.environ.get("GOOGLE_CLOUD_API_KEY"),
+#       api_key = os.environ.get("GEMINI_API_KEY")
 #   )
   client = genai.Client(
     project="train-max-20260104",  
